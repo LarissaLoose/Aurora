@@ -1,5 +1,7 @@
 # 🌅 Manifesto Aurora
 
+> *Uma filosofia antes de um produto.*
+
 *"Toda tecnologia carrega uma escolha."*
 
 Ela pode aproximar ou afastar.
@@ -109,4 +111,15 @@ Modelos de IA podem ser substituídos.
 Mas princípios permanecem.
 
 E é sobre eles que Aurora será construída.
+
+---
+
+> *Aurora is not defined by the technology it uses, but by the values it refuses to compromise.*
+
+🌅
+
+---
+
+
+
 
