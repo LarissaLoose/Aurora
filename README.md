@@ -2,8 +2,22 @@
 
 > **An adaptive conversational AI designed to strengthen people through respectful, personalized, and human-centered interactions.**
 
+--- 
+
+> 🚧 **Aurora is currently in its early development stage.**
+>
+> This project is being built in public, one milestone at a time.
+
 ---
 
+| Status | Information |
+|---------|-------------|
+| 🚧 Stage | Early Development |
+| 🌍 Language | English |
+| 📄 License | MIT |
+| 🤝 Contributions | Welcome |
+ 
+ ---
 ## About
 
 Aurora is an open-source conversational AI project created with a simple belief:
@@ -148,3 +162,8 @@ Every great technology begins with code.
 Aurora begins with a purpose.
 
 If every conversation can leave someone a little stronger, a little more confident, or simply feeling heard, then Aurora is fulfilling the reason it was created.
+
+---
+
+🌅 Welcome to Aurora.
+
