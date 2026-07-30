@@ -125,6 +125,16 @@ Contributions, discussions, suggestions, and improvements are always welcome.
 
 ---
 
+## 📖 Manifesto
+
+Aurora was not created simply to build another AI assistant.
+
+It was created to explore how artificial intelligence can strengthen people through respectful, personalized, and human-centered interactions.
+
+➡️ Read the full manifesto in [docs/manifesto.md].
+
+---
+
 ## Founder
 
 **Larissa Loose**
