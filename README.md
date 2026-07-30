@@ -57,7 +57,7 @@ To build an AI capable of adapting its communication to different ways of thinki
 
 Aurora is built around a simple idea:
 
-People should never have to change who they are to communicate with technology. Technology should learn how to communicate with people.
+> **People should never have to change who they are to communicate with technology. Technology should learn how to communicate with people.**
 
 --- 
 
@@ -88,26 +88,15 @@ Create an intelligent conversational system that:
 
 ## Technology Stack
 
-### Frontend
-
-* React
-* TypeScript
-
-### Backend
-
-* FastAPI
-* Python
-
-### Database
-
-* PostgreSQL
-
-### AI
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Embeddings
-* Vector Database
+| Layer | Technology |
+|--------|------------|
+| Frontend | React + TypeScript |
+| Backend | FastAPI + Python |
+| Database | PostgreSQL |
+| AI | Large Language Models (LLMs) |
+| Retrieval | RAG *(planned)* |
+| Embeddings | *(planned)* |
+| Vector Database | *(planned)* |
 
 ---
 
@@ -174,5 +163,8 @@ If every conversation can leave someone a little stronger, a little more confide
 
 ---
 
+> *The dawn has only just begun.*
+
 🌅 Welcome to Aurora.
 
+---
