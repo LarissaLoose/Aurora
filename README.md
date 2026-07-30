@@ -18,6 +18,15 @@
 | 🤝 Contributions | Welcome |
  
  ---
+
+## Project Status
+
+> 🚧 Aurora is currently under active development.
+
+The first milestone focuses on building a reliable conversational foundation before expanding into adaptive memory, personalization, and advanced AI capabilities.
+
+---
+
 ## About
 
 Aurora is an open-source conversational AI project created with a simple belief:
@@ -43,6 +52,14 @@ This principle guides every architectural decision, feature, and interaction wit
 To build an AI capable of adapting its communication to different ways of thinking, learning, and interacting while always treating every person with dignity and respect.
 
 ---
+
+## Project Philosophy
+
+Aurora is built around a simple idea:
+
+People should never have to change who they are to communicate with technology. Technology should learn how to communicate with people.
+
+--- 
 
 ## Mission
 
@@ -91,14 +108,6 @@ Create an intelligent conversational system that:
 * Retrieval-Augmented Generation (RAG)
 * Embeddings
 * Vector Database
-
----
-
-## Project Status
-
-> 🚧 Aurora is currently under active development.
-
-The first milestone focuses on building a reliable conversational foundation before expanding into adaptive memory, personalization, and advanced AI capabilities.
 
 ---
 
