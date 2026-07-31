@@ -30,6 +30,12 @@ This approach makes the project easier to maintain, test, and evolve over time.
                   ▼
             FastAPI Backend
                   │
+                  |
+      ┌────────┬────────┬─────────┬──────────┐
+      ▼        ▼        ▼         ▼
+Conversation Memory   AI      Authentication
+  Service    Service Service    Service
+                  |
       ┌───────────┼───────────┐
       ▼           ▼           ▼
 Conversation   Memory      AI Service
@@ -37,7 +43,9 @@ Conversation   Memory      AI Service
       │           │           │
       ▼           ▼           ▼
  PostgreSQL   Vector DB     LLM API
-
+  FastAPI Backend
+                  
+    
 ---
 
 # Components
@@ -108,6 +116,21 @@ Architecture must prioritize:
 - Privacy
 - Accessibility
 - Human-centered design
+
+---
+
+# Design Principles
+
+Aurora follows a set of engineering principles that guide software development.
+
+- Separation of Concerns
+- Single Responsibility
+- Dependency Injection
+- Explicit over Implicit
+- Composition over Inheritance
+- Testability First
+- Security by Design
+- Privacy by Default
 
 ---
 
