@@ -19,8 +19,8 @@ Aurora follows a modular architecture designed around a simple principle:
 This approach makes the project easier to maintain, test, and evolve over time.
 
 ---
-
 # High-Level Architecture
+
 
 User
  │
@@ -33,8 +33,8 @@ FastAPI Backend
  ├── Conversation Service
  ├── Memory Service
  ├── AI Service
- └── Authentication Service         
-      
+ └── Authentication Service
+
 ---
 
 # Components
