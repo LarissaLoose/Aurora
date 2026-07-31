@@ -22,20 +22,19 @@ This approach makes the project easier to maintain, test, and evolve over time.
 
 # High-Level Architecture
 
-                User
-                  │
-                  ▼
-          React Frontend
-                  │
-                  ▼
-            FastAPI Backend
-                  │
-      ┌────────┬────────┬─────────┬───
-      ▼        ▼        ▼         ▼
-Conversation Memory   AI      Authentication
-  Service    Service Service    Service
-
-          
+User
+ │
+ ▼
+React Frontend
+ │
+ ▼
+FastAPI Backend
+ │
+ ├── Conversation Service
+ ├── Memory Service
+ ├── AI Service
+ └── Authentication Service         
+      
 ---
 
 # Components
