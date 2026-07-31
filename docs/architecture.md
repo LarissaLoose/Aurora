@@ -21,7 +21,7 @@ This approach makes the project easier to maintain, test, and evolve over time.
 ---
 # High-Level Architecture
 
-
+```text
 User
  │
  ▼
@@ -34,7 +34,7 @@ FastAPI Backend
  ├── Memory Service
  ├── AI Service
  └── Authentication Service
-
+```            
 ---
 
 # Components
