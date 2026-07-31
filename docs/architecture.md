@@ -30,22 +30,11 @@ This approach makes the project easier to maintain, test, and evolve over time.
                   ▼
             FastAPI Backend
                   │
-                  |
       ┌────────┬────────┬─────────┬──────────┐
       ▼        ▼        ▼         ▼
 Conversation Memory   AI      Authentication
   Service    Service Service    Service
-                  |
-      ┌───────────┼───────────┐
-      ▼           ▼           ▼
-Conversation   Memory      AI Service
-  Service      Service
-      │           │           │
-      ▼           ▼           ▼
- PostgreSQL   Vector DB     LLM API
-  FastAPI Backend
-                  
-    
+          
 ---
 
 # Components
